@@ -1,5 +1,5 @@
 <xml xmlns="http://www.w3.org/1999/xhtml">
-  <block type="oled_cleardisplay" id="1" x="131" y="56">
+  <block type="oled_cleardisplay" id="1" x="132" y="34">
     <next>
       <block type="oled_color" id="2">
         <field name="OBJECT">GREEN</field>
